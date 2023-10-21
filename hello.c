@@ -1,6 +1,6 @@
 /**
  * Author: aryan 
- *         EMAIL
+ *         EMAIL aryankhan54272@gmail.com
  * Date: 2023/10/07
  *
  * A simple hello world program in C
